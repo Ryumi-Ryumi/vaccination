@@ -12,7 +12,7 @@ The following grapgh is an example of all ages.
 ![effectiveness_all_ages_adj_death](https://github.com/Ryumi-Ryumi/vaccination/assets/153894701/27389c53-8147-42d7-9536-03b133cbf77c)
 
 ##Usage  
-Create a file 'vaccination.py' in your directory and paste the code on your file 'vaccination.py'
+Create a file 'vaccination.py' in your directory and paste the code on your file 'vaccination.py'  
 Then, run the file
 
 ##Author  
