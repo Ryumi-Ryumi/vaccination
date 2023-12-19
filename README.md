@@ -17,3 +17,6 @@ Then, run the file
 
 ##Author  
 Ryumi Ryumi
+
+## License
+"vaccination" is under [MIT license]
