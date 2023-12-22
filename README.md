@@ -1,4 +1,4 @@
-vaccination
+effectivenss-of-vaccination
 ====
 
 A program to show the effectiveness of vaccination with symptoms by age groups
